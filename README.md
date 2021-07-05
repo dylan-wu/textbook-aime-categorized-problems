@@ -1,49 +1,25 @@
 # AIME Categorized Problems
 
-## 1 Binomial Expansion and Equations 3
+## [1 Binomial Expansion And Equations](01-binomial-expansion-and-equations) 3
 
-### 1.1 Binomial Expansion 3
+## [2 Complex Numbers and Polynomials](02-complex-numbers-and-polynomials) 12
 
-### 1.2 Equations 3
+## [3 Functions](03-functions) 21
 
-### 1.3 Systems of Equations 3
+## [4 Inequalities, Optimization, Sequences and Series](04-inequalities-optimization-sequences-and-series) 27
 
-## 2 Complex Numbers and Polynomials 12
+## [5 Counting](05-counting) 38
 
-## 3 Functions 21
+## [6 Probability](06-probability) 51
 
-## 4 Inequalities, Optimization, Sequences and Series 27
+## [7 Number Theory](07-number-theory) 60
 
-### 4.1 Preliminaries 27
+## [8 Algebraic Methods in Number Theory](08-algebraic-methods-in-number-theory) 71
 
-### 4.2 Inequalities and Optimization Problems 27
+## [9 Coordinates and Trigonometry](09-coordinates-and-trigonometry) 80
 
-### 4.3 Sequences and Series 32
+## [10 Elements of Geometry](10-elements-of-geometry) 88
 
-## 5 Counting 38
+### [11 Computational Geometry](11-computational-geometry) 109
 
-## 6 Probability 51
-
-## 7 Number Theory 60
-
-### 7.1 Preliminaries 60
-
-### 7.2 Problems 61
-
-## 8 Algebraic Methods in Number Theory 71
-
-## 9 Coordinates and Trigonometry 80
-
-### 9.1 Coordinates 80
-
-### 9.2 Trigonometry 80
-
-## 10 Elements of Geometry 88
-
-### 10.1 Preliminaries 88
-
-### 10.2 Problems 92
-
-### 11 Computational Geometry 109
-
-### 12 Solid Geometry 121
+### [12 Solid Geometry](12-solid-geometry) 121
