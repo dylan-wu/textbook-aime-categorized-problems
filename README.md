@@ -20,6 +20,6 @@
 
 ## [10 Elements of Geometry](10-elements-of-geometry) 88
 
-### [11 Computational Geometry](11-computational-geometry) 109
+## [11 Computational Geometry](11-computational-geometry) 109
 
-### [12 Solid Geometry](12-solid-geometry) 121
+## [12 Solid Geometry](12-solid-geometry) 121
